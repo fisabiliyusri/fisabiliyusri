@@ -11,7 +11,7 @@
 #### Top Repositories
 
 
-| <a href="https://github.com/fisabiliyusri/Mantap"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fisabiliyusri&repo=Mantap&theme=dark&hide_border=true" /></a> | <a href="https://github.com/fisabiliyusri/Mantap"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fisabiliyusri&repo=Mantap&theme=blue&hide_border=true" /></a> |
+| <a href="https://github.com/fisabiliyusri/L-Block-Rule"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fisabiliyusri&repo=L-Block-Rule&theme=dark&hide_border=true" /></a> | <a href="https://github.com/fisabiliyusri/Mantap"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fisabiliyusri&repo=Mantap&theme=blue&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <br />
